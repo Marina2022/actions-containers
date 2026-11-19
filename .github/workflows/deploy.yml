@@ -15,7 +15,7 @@ jobs:
       image: node
     env:
       MONGODB_CONNECTION_PROTOCOL: mongodb
-      MONGODB_CLUSTER_ADDRESS: cluster0.zmkmnwo.mongodb.net
+      MONGODB_CLUSTER_ADDRESS: mongo
       MONGODB_USERNAME: root
       MONGODB_PASSWORD: example
       PORT: 8080
